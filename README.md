@@ -1,1 +1,1 @@
-# MLPC_fraud_detection
+# credit card fraud detection model with SMOT and MLPC
