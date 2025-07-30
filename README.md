@@ -27,19 +27,7 @@ This repository delivers a full, modular pipeline for detecting credit card frau
 
 ## 🚀 How to Run
 
-1. Install dependencies:  
-```
-
-pip install -r requirements.txt
-
-```
-
-2. Execute the main pipeline:  
-- Prepare and balance dataset  
-- Train and evaluate the model  
-- Save and reuse the trained model
-
-3. (Optional) Review the included notebook for interactive analysis or rapid prototyping.
+Open the included Jupyter notebook.
 
 ## 🛠️ Production & Automation Attributes
 
