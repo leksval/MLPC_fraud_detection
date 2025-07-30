@@ -1,6 +1,6 @@
 # 💳 MLPC_fraud_detection: Credit Card Fraud Detection with SMOTE + MLP
 
-This repository delivers a full, modular pipeline for detecting credit card fraud using real-world transaction data and modern automation standards. Built with industry-grade Python libraries and best practices, it demonstrates readiness for production use and business automation roles—like those at ElevenLabs.
+This repository delivers a full, modular pipeline for detecting credit card fraud using real-world transaction data and modern automation standards.
 
 ## 🔥 Key Features
 
@@ -34,13 +34,6 @@ Open the included Jupyter notebook.
 - **Automatable pipeline:** Plug-and-play model serialization for integration with internal ops tools or workflow agents.
 - **Metrics-driven:** Includes confusion matrix and ROC analysis for direct business KPIs.
 - **Extensible:** Swap classifier or oversampling methods for custom team requirements.
-
-## 🏢 Role Relevance for Automation Engineering
-
-This project directly aligns with engineering roles focused on:
-- Building AI-driven automated solutions for real business problems
-- Designing, deploying, and optimizing workflows (Python-first, automation-ready)
-- Using ML/AI to add measurable business value in B2B finance or operations
 
 ## 📄 License
 
